@@ -1,0 +1,18 @@
+.pageheading{
+color:brown;
+}
+.blogTitle{
+    font-size: 30px;
+    font-weight: bold;
+    color: cadetblue;
+}
+.blogBody{
+    font-size: 25px;
+    font-weight: bold;
+    color: chocolate;
+}
+.blogAuthor{
+    font-size: 20px;
+    font-weight: bold;
+    color: darkmagenta;
+}

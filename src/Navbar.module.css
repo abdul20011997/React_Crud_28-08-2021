@@ -1,0 +1,23 @@
+header{
+    border: 0px;
+    background: blanchedalmond;
+}
+ul{
+    list-style-type: none;
+    padding: 12px 0px;
+    display: block;
+}
+ul li{
+    display: inline-block;
+    margin: 0px 17px;
+
+}
+ul li a{
+    text-decoration: none;
+    color: darkgreen;
+    font-weight: 600;
+    font-size: 18px;
+}
+.active{
+color:#61cc3e;
+}
